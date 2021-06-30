@@ -33,6 +33,4 @@ public class MainActivity extends AppCompatActivity {
         Intent act5 = new Intent(this, Screen5Activity.class);
         startActivity(act5);
     }
-
-    //texto agregado para poder hacer primer commit
 }
