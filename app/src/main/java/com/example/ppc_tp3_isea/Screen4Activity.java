@@ -2,11 +2,8 @@ package com.example.ppc_tp3_isea;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-<<<<<<< HEAD
 import android.app.Activity;
-=======
 import android.content.Context;
->>>>>>> 5835717f726f41a910780064bc5b00eca765b629
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
